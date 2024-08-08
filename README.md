@@ -22,7 +22,6 @@ Add the following code to your LaTeX preamble:
 
 ```tex
 \usepackage{graphicx}
-\usepackage{geometry}
 \usepackage{caption}
 
 \makeatletter
